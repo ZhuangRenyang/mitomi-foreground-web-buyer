@@ -1,5 +1,8 @@
 <template>
 <!--服装-->
+  <div>
+    服装
+  </div>
 </template>
 
 <script>

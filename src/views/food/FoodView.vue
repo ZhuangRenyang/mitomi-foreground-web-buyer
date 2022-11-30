@@ -1,5 +1,6 @@
 <template>
   <!--食品-->
+  <div>食品</div>
 </template>
 
 <script>

@@ -1,6 +1,8 @@
 <template>
 <!--家电-->
-
+<div>
+  家电
+</div>
 </template>
 
 <script>

@@ -6,7 +6,7 @@ Vue.use(VueRouter)
 
 const routes = [
   {
-    path: '/mitomi',
+    path: '/mitomi',//配置统一前缀
     name: 'home',
     component: HomeView,
     //重定向
@@ -16,7 +16,7 @@ const routes = [
         path: 'techno',
         component: () => import('../views/techno/TechnoView'),
         meta: {
-          title: '米To米-手机'
+          title: '米To米-数码'
         }
       },
       {
@@ -58,7 +58,7 @@ const routes = [
   },
   {
     path: '/',
-    name: 'login',
+    // name: 'login',
     // route level code-splitting
     // this generates a separate chunk (about.[hash].js) for this route
     // which is lazy-loaded when the route is visited.

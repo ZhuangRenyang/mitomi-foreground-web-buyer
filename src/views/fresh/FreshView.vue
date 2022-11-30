@@ -1,5 +1,6 @@
 <template>
 <!--生鲜-->
+  <div>生鲜</div>
 </template>
 
 <script>

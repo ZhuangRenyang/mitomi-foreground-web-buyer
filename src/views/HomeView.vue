@@ -15,7 +15,7 @@
                     <a href="">协议规则</a><el-divider direction="vertical"></el-divider>
                     <a href="">下载app</a><el-divider direction="vertical"></el-divider>
                     <a href="">Select Location</a>
-                    <a style="margin-left: 150px" href="javascript:void(0)" @click="index()">登录</a><el-divider
+                    <a style="margin-left: 150px" href="http://localhost:8081/">登录</a><el-divider
               direction="vertical"></el-divider>
                     <a href="javascript:void(0)" @click="logout()">注册</a><el-divider
               direction="vertical"></el-divider>
